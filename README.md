@@ -8,12 +8,6 @@
 
 #### Linear Regression Forecasting
 
-In this notebook, you will build a Scikit-Learn linear regression model to predict Yen futures ("settle") returns with *lagged* Yen futures returns and categorical calendar seasonal effects (e.g., day-of-week or week-of-year seasonal effects).
+Yen futures were forecasted using a Scikit-Learn linear regression model. Returns and Lagged Returns were created and the data was split into training and testing data. 
 
-Follow the steps outlined in the regression_analysis starter notebook to complete the following:
 
-1. Data Preparation (Creating Returns and Lagged Returns and splitting the data into training and testing data)
-2. Fitting a Linear Regression Model.
-3. Making predictions using the testing data.
-4. Out-of-sample performance.
-5. In-sample performance.

@@ -8,6 +8,9 @@
 
 #### Linear Regression Forecasting
 
-Yen futures were forecasted using a Scikit-Learn linear regression model. Returns and Lagged Returns were created and the data was split into training and testing data. 
+Yen futures were forecasted using a Scikit-Learn linear regression model. Returns and Lagged Returns were created and the data was split into training and testing data. Linear regression modeling was used to analyze if the model performed better or worse on out-of-sample data compared to in-sample data?
+
+
+
 
 
